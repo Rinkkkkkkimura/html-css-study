@@ -1,0 +1,13 @@
+*{ 
+    margin:0; /* 外側の余白 */
+    padding:0; /* 内側の余白 */
+    line-height: 1; /* 行間 */
+  }
+  h1{
+    font-size: 100%; /* デフォルトフォントサイズは16px */
+    font-weight: normal; /* タイトル文字の太さ */
+  }
+  ul{
+    list-style: none; /* liの前の「・」なし*/
+  
+  }
